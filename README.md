@@ -167,11 +167,3 @@ CHUNK_OVERLAP = 100                    # Overlap between chunks
 ### Search results not relevant
 - Try rephrasing with different keywords
 - Use specific terms from the document
-
-## License
-
-MIT
-# OCR-CHAT-PDF
-# OCR-CHAT-PDF
-# OCR-CHAT-PDF
-# OCR-CHAT-PDF
