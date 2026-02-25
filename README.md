@@ -173,3 +173,4 @@ CHUNK_OVERLAP = 100                    # Overlap between chunks
 MIT
 # OCR-CHAT-PDF
 # OCR-CHAT-PDF
+# OCR-CHAT-PDF
