@@ -171,3 +171,4 @@ CHUNK_OVERLAP = 100                    # Overlap between chunks
 ## License
 
 MIT
+# OCR-CHAT-PDF
